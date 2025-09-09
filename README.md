@@ -8,7 +8,7 @@
 A professional AI-powered dashboard for real-time text sentiment analysis built with Python and Streamlit. Analyze emotions in text with beautiful visualizations and advanced analytics.
 
 ## link for the dashboard
-http://172.24.5.9:8501/
+[http://172.24.5.9:8501/](https://sentiment-analysis-dashboard-main-6a2ypaqfjzaptmzyr66rbx.streamlit.app/)
 
 ##  Features
 
